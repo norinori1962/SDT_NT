@@ -2,7 +2,7 @@
 * Export Spice: 
 * Library Name: sim_tsuda
 * Top Cell Name: git_test
-* Netlisted on: Fri Jun 24 16:25:37 2016
+* Netlisted on: Fri Jun 24 16:43:24 2016
 *				 JEDAT Inc.
 ************************************************
 
@@ -16,7 +16,7 @@
 ************************************************
 
 *.SUBCKT git_test IN OUT 
-r000 IN OUT 1K
+r000 IN OUT 2K
 
 *----------------------------------------------*
 *      Cross Reference List for node No.       *
